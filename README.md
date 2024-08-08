@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lisa2801/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Lisa2801/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Lisa2801/Leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Lisa2801/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Lisa2801/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Lisa2801/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Lisa2801/Leetcode/tree/master/1791-richest-customer-wealth) |
