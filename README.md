@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/Lisa2801/Leetcode/tree/master/0268-missing-number) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Lisa2801/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Lisa2801/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1791-richest-customer-wealth](https://github.com/Lisa2801/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Lisa2801/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Lisa2801/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Lisa2801/Leetcode/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Lisa2801/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
