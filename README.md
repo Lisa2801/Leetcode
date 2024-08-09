@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/Lisa2801/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Lisa2801/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Lisa2801/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Lisa2801/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Lisa2801/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Lisa2801/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Lisa2801/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -20,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lisa2801/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Lisa2801/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Lisa2801/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Lisa2801/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
