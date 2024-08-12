@@ -59,4 +59,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Lisa2801/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Lisa2801/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
