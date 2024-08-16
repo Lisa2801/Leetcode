@@ -45,11 +45,13 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Lisa2801/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Lisa2801/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Lisa2801/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Lisa2801/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Lisa2801/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
