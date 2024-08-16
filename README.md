@@ -15,6 +15,7 @@
 | [1791-richest-customer-wealth](https://github.com/Lisa2801/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Lisa2801/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Lisa2801/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Lisa2801/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/Lisa2801/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Lisa2801/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
